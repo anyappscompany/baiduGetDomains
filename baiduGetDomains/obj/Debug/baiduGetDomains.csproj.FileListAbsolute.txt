@@ -1,0 +1,6 @@
+F:\Visual Studio\Projects\baiduGetDomains\baiduGetDomains\bin\Debug\baiduGetDomains.exe.config
+F:\Visual Studio\Projects\baiduGetDomains\baiduGetDomains\bin\Debug\baiduGetDomains.exe
+F:\Visual Studio\Projects\baiduGetDomains\baiduGetDomains\bin\Debug\baiduGetDomains.pdb
+F:\Visual Studio\Projects\baiduGetDomains\baiduGetDomains\obj\Debug\baiduGetDomains.csprojResolveAssemblyReference.cache
+F:\Visual Studio\Projects\baiduGetDomains\baiduGetDomains\obj\Debug\baiduGetDomains.exe
+F:\Visual Studio\Projects\baiduGetDomains\baiduGetDomains\obj\Debug\baiduGetDomains.pdb
